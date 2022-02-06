@@ -2,7 +2,7 @@ import Layout from "../components/layout"
 
 export default function IndexPage() {
   return (
-      <>a
+      <>
     <Layout>
       <h1>NextAuth.js Example</h1>
       <p>
