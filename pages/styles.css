@@ -3,9 +3,10 @@ body {
     sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   padding: 0 1rem 1rem 1rem;
-  max-width: 680px;
+  max-width: 100%;
   margin: 0 auto;
-  background: #fff;
+  background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+  /*background-size: cover;*/
   color: #333;
 }
 
