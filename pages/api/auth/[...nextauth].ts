@@ -52,7 +52,7 @@ export default NextAuth({
     }),
   ],
   theme: {
-    colorScheme: "light",
+    colorScheme: "dark",
   },
   callbacks: {
     async jwt({ token }) {
